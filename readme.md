@@ -4,7 +4,7 @@ A responsive front-end clone of the Netflix homepage, built using **HTML**, and 
 
 ---
 
-- You can view the project on [@NetflixUIClone](https://jovial-flan-5606e6.netlify.app/)
+- You can view the project on [@NetflixUIClone](https://ubiquitous-meringue-74caee.netlify.app/)
 
 ## 🛠️ Tech Stack
 
